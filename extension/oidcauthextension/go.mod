@@ -1,4 +1,5 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension
+//module github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension
+module github.com/hwrdthdck/opentelemetry-collector-contrib/extension/oidcauthextension
 
 go 1.22.0
 
