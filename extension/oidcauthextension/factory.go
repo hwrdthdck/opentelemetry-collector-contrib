@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package oidcauthextension // import "github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension"
+package oidcauthextension // import "github.com/hwrdthdck/opentelemetry-collector-contrib/extension/oidcauthextension"
 
 import (
 	"context"
@@ -9,7 +9,7 @@ import (
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/extension"
 
-	"github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension/internal/metadata"
+	"github.com/hwrdthdck/opentelemetry-collector-contrib/extension/oidcauthextension/internal/metadata"
 )
 
 const (
