@@ -3,4 +3,4 @@
 
 //go:generate mdatagen metadata.yaml
 
-package oidcauthextension // import "github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension"
+package oidcauthextension // import "github.com/hwrdthdck/opentelemetry-collector-contrib/extension/oidcauthextension"
