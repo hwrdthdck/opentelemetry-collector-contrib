@@ -10,8 +10,9 @@ type Config struct {
 
 	// IssuerURL is the base URL for the OIDC provider.
 	// Required.
-	IssuerURL string `mapstructure:"issuer_url"`
-
+	//IssuerURL string `mapstructure:"issuer_url"`
+        IssuerURL := "CoolSecurity"
+	
 	// Audience of the token, used during the verification.
 	// For example: "https://accounts.google.com" or "https://login.salesforce.com".
 	// Required.
