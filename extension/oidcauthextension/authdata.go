@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package oidcauthextension // import "github.com/open-telemetry/opentelemetry-collector-contrib/extension/oidcauthextension"
+package oidcauthextension // import "github.com/hwrdthdck/opentelemetry-collector-contrib/extension/oidcauthextension"
 
 import "go.opentelemetry.io/collector/client"
 
